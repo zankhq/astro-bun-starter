@@ -1,7 +1,7 @@
 # Astro Bun Starter
 
-This project as been deprecated, use https://github.com/zankhq/AT-AT 
+This project has been deprecated, use https://github.com/zankhq/AT-AT instead.
 
 ```bash
-npm create atat
+bun create atat@latest
 ```
